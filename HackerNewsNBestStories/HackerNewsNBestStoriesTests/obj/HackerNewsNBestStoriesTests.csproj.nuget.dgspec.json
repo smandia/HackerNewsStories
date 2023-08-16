@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStoriesTests\\HackerNewsNBestStoriesTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStoriesTests\\HackerNewsNBestStoriesTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStoriesTests\\HackerNewsNBestStoriesTests.csproj",
+        "projectName": "HackerNewsNBestStoriesTests",
+        "projectPath": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStoriesTests\\HackerNewsNBestStoriesTests.csproj",
+        "packagesPath": "C:\\Users\\sures\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStoriesTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sures\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStories\\HackerNewsNBestStories.csproj": {
+                "projectPath": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStories\\HackerNewsNBestStories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "RichardSzalay.MockHttp": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStories\\HackerNewsNBestStories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStories\\HackerNewsNBestStories.csproj",
+        "projectName": "HackerNewsNBestStories",
+        "projectPath": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStories\\HackerNewsNBestStories.csproj",
+        "packagesPath": "C:\\Users\\sures\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sures\\OneDrive\\Desktop\\Santander\\HackerNewsNBestStories\\HackerNewsNBestStories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sures\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Collections.Concurrent": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
