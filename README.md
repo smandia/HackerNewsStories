@@ -16,7 +16,7 @@ Input
 Things I would have done more if I had time
 0. I would have divided the solution in multiple projects 
 1. My VS 2022 crashed multiple times otherwise I would have written more tests , I could complete tests for few places only
-2. I would have used RetryPolicy  and circuit breaker ploicy in my http client
+2. I would have used RetryPolicy  and circuit breaker ploicy in my http client, AutoMapper for mapping 
 3. I would have increased the lifetime  of httpclient from the pool
 4. I would have added globla exception handler as a middleware
 5. I would have added some kind of authentication and authorization(in form of JWT /OAuthetc)
