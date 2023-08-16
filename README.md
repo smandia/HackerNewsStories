@@ -5,6 +5,13 @@ The get endpoints accept integer as the count of best stories for which one deta
 
 Assumption Made
 1. Since the endpoint for best stories just returns ids , I assume we pick in any order the ids.
+2. The user will always ask for count of stories which are less then or equal to present in the endpoint of beststoriesId
+
+Input
+![image](https://github.com/smandia/HackerNewsStories/assets/3833082/9e9b2e5d-233e-4534-8e42-da3a6e44d54a)
+![image](https://github.com/smandia/HackerNewsStories/assets/3833082/b88db6ad-07ac-45b1-9a70-f840db70cdd6)
+
+
 
 Things I would have done more if I had time
 0. I would have divided the solution in multiple projects 
